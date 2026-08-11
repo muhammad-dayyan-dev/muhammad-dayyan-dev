@@ -1,32 +1,58 @@
-# Hi there, I'm Muhammad Dayyan 👋
+# Hi, I'm Muhammad Dayyan 👋
 
-![Profile Views](https://komarev.com/ghpvc/?username=muhammad-dayyan-dev&color=orange)
+**Full-Stack Mobile App Developer | React Native**
+3+ years architecting, building, and independently publishing React Native apps to the App Store and Google Play.
 
-## 🚀 About Me
+- 🚀 Currently at **LaunchBox Global**, informally leading a 4-developer team across 3 production apps
+- 📱 Independently published **10+ live mobile apps** — marketplace, social, wellness, and Gen AI-driven products
+- 🤖 Integrate Gen AI (OpenAI, Hugging Face, Vapi AI voice) into mobile and web products
+- 🌐 Secondary experience building responsive web apps in React.js and Next.js
+- 🌍 Shipped with i18n support across English, Spanish, French, Arabic, and Hindi
+- 📫 Reach me: dayyanrizwan.dev@gmail.com
 
-I'm a passionate **Full Stack Developer** and **React Native Developer** with a focus on creating efficient, scalable, and reliable systems. My primary focus is on leveraging JavaScript to create outstanding user experiences. With a solid foundation in **React JS**, **Next JS**, **Node.js**, **Express.js**, **MongoDB**, and **React Native**, I'm always exploring new tools and technologies to improve my workflow and deliver the best solutions.
-
-- 💬 Ask me about **Full Stack Development, React Native, or anything tech-related**
-- 📫 How to reach me: [dayyanrizwan.dev@gmail.com](mailto:dayyanrizwan.dev@gmail.com)
+---
 
 ## 🛠️ Tech Stack
 
-- **Languages**: ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypScript-3178c6?logo=typescript&logoColor=white)
-- **Frontend**: ![HTML](https://img.shields.io/badge/-HTML-fff?logo=HTML5&logoColor=f06529) ![CSS](https://img.shields.io/badge/-CSS-2965f1?logo=css3&logoColor=ffffff) ![React JS](https://img.shields.io/badge/-React%20JS-20232a?logo=react&logoColor=aqua) ![Next JS](https://img.shields.io/badge/-Next%20JS-000000?logo=next.js&logoColor=ffffff) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-0b1120?logo=tailwindcss&logoColor=38bdf8) ![Redux](https://img.shields.io/badge/-Redux-242526?logo=redux&logoColor=7248b6)
-- **Backend**: ![Node.js](https://img.shields.io/badge/-Node.js-43853d?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?logo=mongodb&logoColor=white)
-- **Mobile App**: ![React Native](https://img.shields.io/badge/-React%20Native-20232a?logo=react&logoColor=aqua)
-- **Tools**: ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?logo=visual-studio-code&logoColor=white) ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white)
+**Languages:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 
-## 🏆 My GitHub Stats
+**Mobile:** ![React Native](https://img.shields.io/badge/-React%20Native-20232a?logo=react&logoColor=61DAFB) ![NativeWind](https://img.shields.io/badge/-NativeWind-38bdf8?logo=tailwindcss&logoColor=white)
+
+**State & Data:** ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=white) ![RTK Query](https://img.shields.io/badge/-RTK%20Query-764ABC?logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/-Zustand-000000?logo=react&logoColor=white)
+
+**Web:** ![React JS](https://img.shields.io/badge/-React%20JS-20232a?logo=react&logoColor=61DAFB) ![Next JS](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
+
+**Gen AI & Real-Time:** ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black) ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?logo=socket.io&logoColor=white)
+
+**Platform & Payments:** ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?logo=stripe&logoColor=white)
+
+**Backend (working knowledge):** ![Node.js](https://img.shields.io/badge/-Node.js-43853d?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?logo=mongodb&logoColor=white)
+
+**Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+
+---
+
+## 📱 Selected Live Apps
+
+Most of my production work is closed-source (client/company-owned), so here's what's actually live and shipping — not sample repos.
+
+| App | My Role | Stack | Link |
+|---|---|---|---|
+| **GiveXchange** | Solo-built & published | RN, TypeScript, Redux Toolkit, RTK Query, Stripe, Firebase | [App Store](https://apps.apple.com/app/id6753163683) · [Play Store](https://play.google.com/store/apps/details?id=com.launchbox.givexchange) |
+| **LookAlike Match** | Solo-built & published | RN, ML Kit, WebSockets, Redux Persist | [App Store](https://apps.apple.com/app/id6766226894) · [Play Store](https://play.google.com/store/apps/details?id=com.launchbox.lal) |
+| **The WorkTool** | Built ~60% solo | RN, Redux Toolkit, EN/AR localization | [App Store](https://apps.apple.com/app/id6739536131) · [Play Store](https://play.google.com/store/apps/details?id=com.theworktool) |
+| **FollowBuddy** | Solo-built, approved on first review | RN, TypeScript, NativeWind, RTK Query | [Play Store](https://play.google.com/store/apps/details?id=com.followbuddy_mobile) |
+| **Little Companion** | Solo mobile developer | RN, TypeScript, OpenAI, Firebase | [App Store](https://apps.apple.com/app/id6772665812) |
+| **Therapy Talk** | Solo web developer | Next.js, TypeScript, Zustand, OpenAI | [therapytalk.ai](https://therapytalk.ai) |
+
+---
+
+## 🏆 GitHub Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-dayyan-dev&layout=compact&theme=radical)
 
 ## 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/muhammad-dayyan-52872527b/)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?logo=vercel&logoColor=white)](https://muhammad-dayyan.vercel.app)
 [![Email](https://img.shields.io/badge/-Email-D14836?logo=gmail&logoColor=white)](mailto:dayyanrizwan.dev@gmail.com)
-[![X](https://img.shields.io/badge/-X-000000?logo=x&logoColor=white)](https://x.com/I_M_Dayyan)
-
----
-
-⭐️ From [Muhammad Dayyan](https://github.com/muhammad-dayyan-dev)
