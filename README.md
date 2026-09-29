@@ -49,7 +49,7 @@ Most of my production work is closed-source (client/company-owned), so here's wh
 
 ## 🏆 GitHub Stats
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=muhammad-dayyan-dev&layout=compact&theme=radical)
+![Top Langs](./profile/top-langs.svg)
 
 ## 📫 Connect with Me
 
