@@ -1,55 +1,50 @@
 # Hi, I'm Muhammad Dayyan 👋
 
-**Full-Stack Mobile App Developer | React Native**
-3+ years architecting, building, and independently publishing React Native apps to the App Store and Google Play.
+**React Native Developer | Frontend Developer | React.js, Next.js, TypeScript**
 
-- 🚀 Currently at **LaunchBox Global**, informally leading a 4-developer team across 3 production apps
-- 📱 Independently published **10+ live mobile apps** — marketplace, social, wellness, and Gen AI-driven products
-- 🤖 Integrate Gen AI (OpenAI, Hugging Face, Vapi AI voice) into mobile and web products
-- 🌐 Secondary experience building responsive web apps in React.js and Next.js
-- 🌍 Shipped with i18n support across English, Spanish, French, Arabic, and Hindi
-- 📫 Reach me: dayyanrizwan.dev@gmail.com
+Frontend and React Native developer with 3+ years of experience contributing to 10+ production applications. My strongest area is end-to-end React Native delivery for iOS and Android, with additional experience building responsive React.js and Next.js interfaces.
 
----
-
-## 🛠️ Tech Stack
-
-**Languages:** ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black) ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
-
-**Mobile:** ![React Native](https://img.shields.io/badge/-React%20Native-20232a?logo=react&logoColor=61DAFB) ![NativeWind](https://img.shields.io/badge/-NativeWind-38bdf8?logo=tailwindcss&logoColor=white)
-
-**State & Data:** ![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?logo=redux&logoColor=white) ![RTK Query](https://img.shields.io/badge/-RTK%20Query-764ABC?logo=redux&logoColor=white) ![Zustand](https://img.shields.io/badge/-Zustand-000000?logo=react&logoColor=white)
-
-**Web:** ![React JS](https://img.shields.io/badge/-React%20JS-20232a?logo=react&logoColor=61DAFB) ![Next JS](https://img.shields.io/badge/-Next.js-000000?logo=next.js&logoColor=white) ![Tailwind CSS](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?logo=tailwindcss&logoColor=white)
-
-**Gen AI & Real-Time:** ![OpenAI](https://img.shields.io/badge/-OpenAI-412991?logo=openai&logoColor=white) ![Hugging Face](https://img.shields.io/badge/-Hugging%20Face-FFD21E?logo=huggingface&logoColor=black) ![WebSockets](https://img.shields.io/badge/-WebSockets-010101?logo=socket.io&logoColor=white)
-
-**Platform & Payments:** ![Firebase](https://img.shields.io/badge/-Firebase-FFCA28?logo=firebase&logoColor=black) ![Stripe](https://img.shields.io/badge/-Stripe-635BFF?logo=stripe&logoColor=white)
-
-**Backend (working knowledge):** ![Node.js](https://img.shields.io/badge/-Node.js-43853d?logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/-MongoDB-4ea94b?logo=mongodb&logoColor=white)
-
-**Tools:** ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white)
+- 📱 Build and ship React Native applications for iOS and Android
+- 🌐 Build responsive, API-driven interfaces with React.js and Next.js
+- 🧪 Write Jest tests for components, API utilities, custom hooks, and navigation behavior
+- 🔌 Integrate REST APIs, Firebase, Stripe, WebSockets, push notifications, deep linking, social authentication, and i18n
+- 🤖 Build product features that use AI APIs and conversational workflows
+- 🛠️ Supporting backend experience with selected Node.js, Express.js, and MongoDB work
+- 📫 Reach me: [dayyanrizwan.dev@gmail.com](mailto:dayyanrizwan.dev@gmail.com)
 
 ---
 
-## 📱 Selected Live Apps
+## 🛠️ Technical Skills
 
-Most of my production work is closed-source (client/company-owned), so here's what's actually live and shipping — not sample repos.
+**Core:** React Native, React.js, Next.js, TypeScript, JavaScript, Expo  
+**Frontend:** HTML, CSS, Tailwind CSS, responsive UI  
+**State & data:** Redux Toolkit, RTK Query, Zustand, MMKV  
+**Integrations:** REST APIs, Firebase, Stripe, in-app purchases, WebSockets, push notifications, social authentication, deep linking, i18n  
+**Testing & tooling:** Jest, Git, Xcode, Android Studio, Postman  
+**Backend exposure:** Node.js, Express.js, MongoDB
 
-| App | My Role | Stack | Link |
-|---|---|---|---|
-| **GiveXchange** | Solo-built & published | RN, TypeScript, Redux Toolkit, RTK Query, Stripe, Firebase | [App Store](https://apps.apple.com/app/id6753163683) · [Play Store](https://play.google.com/store/apps/details?id=com.launchbox.givexchange) |
-| **LookAlike Match** | Solo-built & published | RN, ML Kit, WebSockets, Redux Persist | [App Store](https://apps.apple.com/app/id6766226894) · [Play Store](https://play.google.com/store/apps/details?id=com.launchbox.lal) |
-| **The WorkTool** | Built ~60% solo | RN, Redux Toolkit, EN/AR localization | [App Store](https://apps.apple.com/app/id6739536131) · [Play Store](https://play.google.com/store/apps/details?id=com.theworktool) |
-| **FollowBuddy** | Solo-built, approved on first review | RN, TypeScript, NativeWind, RTK Query | [Play Store](https://play.google.com/store/apps/details?id=com.followbuddy_mobile) |
-| **Little Companion** | Solo mobile developer | RN, TypeScript, OpenAI, Firebase | [App Store](https://apps.apple.com/app/id6772665812) |
-| **Therapy Talk** | Solo web developer | Next.js, TypeScript, Zustand, OpenAI | [therapytalk.ai](https://therapytalk.ai) |
+---
+
+## 📱 Selected Production Work
+
+Most of my production work is closed-source and owned by clients or employers. These are selected live products and examples of the systems I have worked on.
+
+| Product | Contribution | Technologies |
+|---|---|---|
+| **GiveXchange** | React Native development and release delivery | React Native, TypeScript, Redux Toolkit, RTK Query, Stripe, Firebase |
+| **LookAlike Match** | React Native development, testing, and release delivery | React Native, ML Kit, WebSockets, Redux Persist |
+| **The WorkTool** | React Native development and localization | React Native, Redux Toolkit, English/Arabic localization |
+| **FollowBuddy** | React Native development and App Store delivery | React Native, TypeScript, NativeWind, RTK Query |
+| **Little Companion** | Mobile development and AI feature integration | React Native, TypeScript, OpenAI, Firebase |
+| **Therapy Talk** | Frontend web development | Next.js, TypeScript, Zustand, OpenAI |
 
 ---
 
 ## 🏆 GitHub Stats
 
 ![Top Langs](./profile/top-langs.svg)
+
+The card is generated by GitHub Actions. It includes public repositories by default; a repository secret can be added later if private-repository statistics are needed.
 
 ## 📫 Connect with Me
 
